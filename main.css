@@ -10,6 +10,11 @@
   background-position: center;
 }
 
+.vazifa {
+  left: -100px;
+  top: -50%;
+}
+
 .section-title {
   color: aqua;
   text-align: center;
@@ -36,6 +41,14 @@ text-align: center;
   vertical-align: middle;
 }
 
+.mma {
+  background-color: #d5ffdc;
+}
+
+.articles__propan {
+  background-color: #d5ffdc;
+  color: black;
+}
 .heading {
   text-align: center;
 }
